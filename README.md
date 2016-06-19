@@ -1,5 +1,5 @@
 # css2less
-## 目前不支持@media，会报错
+## 目前不支持@media，会报错!
 Turns this
 
     #foo {
